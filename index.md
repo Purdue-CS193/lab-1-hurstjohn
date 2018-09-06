@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-#John Hurst's first CS193 Lab
+# John Hurst's first CS193 Lab
 
 - I like my TAs
 - I liked the presentation last week
